@@ -1,0 +1,6 @@
+I am a Software Engineer with 6 of experience in PHP and Laravel. 
+My expertise includes Backend, AI integrations, AI Agents.
+
+Currently, I'm focused on Agentic workflows.
+
+My background includes COmputerscience.

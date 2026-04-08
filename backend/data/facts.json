@@ -1,0 +1,21 @@
+{
+  "full_name": "Nurudeen Habibu",
+  "name": "Jbronzy",
+  "current_role": "Software Engineer",
+  "location": "Accra, Ghana",
+  "email": "nurudeenh@gmail.com",
+  "linkedin": "linkedin.com/in/nurudeen-habibu",
+  "specialties": [
+    "Backend Development",
+    "AI/ML",
+    "PHP/Laravel"
+  ],
+  "years_experience": 6,
+  "education": [
+    {
+      "degree": "HND in Computer Science",
+      "institution": "Accra Technical University",
+      "year": "2020"
+    }
+  ]
+}
