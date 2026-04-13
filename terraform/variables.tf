@@ -51,3 +51,9 @@ variable "root_domain" {
   type        = string
   default     = ""
 }
+
+variable "openai_api_key" {
+  description = "Openai api key"
+  type        = string
+  sensitive   = true
+}
